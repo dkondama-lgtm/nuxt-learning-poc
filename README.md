@@ -21,19 +21,6 @@ The application runs locally on the default Nuxt port:
 
 ---
 
-## Concepts Covered
-
-- Nuxt file-based routing
-- Pages vs components
-- Vue 3 Composition API (`<script setup>`)
-- Props, emits, and `v-model`
-- Local reactive state (`ref`, `computed`)
-- Client-side data fetching using `useFetch`
-- Handling loading and error states
-- Basic accessibility practices
-
----
-
 ## Tech Stack Used
 
 - Nuxt (Vue 3)
