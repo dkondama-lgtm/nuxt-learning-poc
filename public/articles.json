@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "id": "architect-nuxt",
+      "title": "How to Architect Nuxt Apps",
+      "excerpt": "Component-driven architecture and JAMstack fundamentals.",
+      "author": "Jane Developer",
+      "date": "2026-01-10",
+      "image": "https://picsum.photos/id/1015/600/400",
+      "content": "This article explains how to structure Nuxt applications using components, composables, and pages."
+    },
+    {
+      "id": "reusable-components",
+      "title": "Building Reusable Components",
+      "excerpt": "Designing Vue components for Storybook and team reuse.",
+      "author": "RDS Team",
+      "date": "2026-01-05",
+      "image": "https://picsum.photos/id/1025/600/400",
+      "content": "Reusable components should be presentational, well-typed, and documented in Storybook."
+    },
+    {
+      "id": "nuxt-performance",
+      "title": "Nuxt Performance Tips",
+      "excerpt": "Caching, SSR, and static generation techniques.",
+      "author": "Ops Team",
+      "date": "2025-12-20",
+      "image": "https://picsum.photos/id/1035/600/400",
+      "content": "Use static generation and CDN caching to deliver fast Nuxt applications."
+    }
+  ]
+}
