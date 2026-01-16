@@ -55,8 +55,8 @@ yarn install
 
 ```
 ## Preview
-<img width="753" height="364" alt="4" src="https://github.com/user-attachments/assets/a1439cac-a8ef-465d-9c14-9a9190667b0f" />
 <img width="1134" height="684" alt="3" src="https://github.com/user-attachments/assets/75ad9fec-ee1a-4e92-997a-a7596c7c171e" />
-<img width="754" height="385" alt="2" src="https://github.com/user-attachments/assets/224ff67c-bdb1-46d1-90c1-14ad57f28728" />
+<img width="753" height="364" alt="4" src="https://github.com/user-attachments/assets/a1439cac-a8ef-465d-9c14-9a9190667b0f" />
 <img width="753" height="337" alt="1" src="https://github.com/user-attachments/assets/d74edbe0-5c11-4ebc-9e82-82573fc5c527" />
+<img width="754" height="385" alt="2" src="https://github.com/user-attachments/assets/224ff67c-bdb1-46d1-90c1-14ad57f28728" />
 
